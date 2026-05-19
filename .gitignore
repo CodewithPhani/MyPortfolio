@@ -1,0 +1,53 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.project
+.classpath
+*.c9/
+*.iml
+out/
+
+# Node.js Dependencies (if used)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build and Distribution
+dist/
+build/
+*.min.js
+*.min.css
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# OS Specific
+.vscode/settings.json
+.vscode/launch.json
