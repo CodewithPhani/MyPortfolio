@@ -25,20 +25,8 @@ MyPortfolio/
 │   ├── portfolio.js          - Interactive functionality
 │   └── Profile1.jpeg         - Profile image
 ├── README.md                 - Project documentation
-└── .gitignore               - Git ignore rules
+
 ```
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CodewithPhani/MyPortfolio.git
-   ```
-
-2. Navigate to the Portfolio folder and open `web.html` in your web browser to view the portfolio:
-   ```bash
-   cd MyPortfolio/Portfolio
-   # Open web.html in your browser
-   ```
 
 
